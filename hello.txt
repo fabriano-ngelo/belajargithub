@@ -1,1 +1,1 @@
-Latihan menyelesaikan merge conflict
+Kita akan belajar menyelesaikan merge conflict
