@@ -1,1 +1,1 @@
-Ini adalah contoh teks untuk latihan belajar github
+Kita akan belajar menyelesaikan merge conflict
